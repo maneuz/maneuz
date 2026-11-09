@@ -1,3 +1,5 @@
+<p align="center"><img src="ajolote/ajolote.svg" width="640" alt="Mi ajolote"></p>
+
 ## Hi there 👋
 
 <!--
