@@ -25,7 +25,7 @@ jobs:
 
       - uses: maneuz/gitxolotl@main
         with:
-          morph: blanco
+          morph: leucistico
           # Opcional: para que cuenten tus repos privados, crea un token
           # fine-grained de solo lectura y guárdalo como secreto GITXOLOTL_TOKEN.
           # token: ${{ secrets.GITXOLOTL_TOKEN }}
